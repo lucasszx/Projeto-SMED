@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .form{
+    width:200px;
+    height:200px;
+    border:solid 1px;
+    border-radius: 10px;
+    text-align: center;
+    line-height:120px;
+    background-color:darkgreen;
+    color:#fff;
+    font-size: 35px;
+  }
+  .in{
+    display: none;
+  }
+  p{
+    font-size: 10px
+  }
